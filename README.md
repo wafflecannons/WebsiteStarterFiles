@@ -2,14 +2,7 @@
 Index starter file with charset, viewport, and HTML5 settings. Style css file with background image settings. Reset CSS file included.
 
 
-index.html includes...
-  Standard HTML5 tags with tab indentations.
-  Language tag <html lang="en">
-  Character encoding for Unicode <meta charset="UTF-8">
-  Viewport tag <meta name="viewport" content="width=device-width, initial-scale=1">
-  Links reset.css and style.css (place reset.css before your style.css or your style.css will be reset)
-    href="./reset.css">
-    href="./style.css">
+index.html includes standard HTML5 tags with tab indentations, language tag <html lang="en">, character encoding for Unicode <meta charset="UTF-8">, viewport tag <meta name="viewport" content="width=device-width, initial-scale=1">, reset.css and style.css links (place reset.css before your style.css or your style.css will be reset). href="./reset.css"> and href="./style.css">
   
 
 reset.css includes...
