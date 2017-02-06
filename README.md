@@ -3,7 +3,7 @@ Index starter file with charset, viewport, and HTML5 settings. Style css file wi
 
 
 index.html includes...
-  Standard HTML5 tags with tab indentations
+  Standard HTML5 tags with tab indentations.
   Language tag <html lang="en">
   Character encoding for Unicode <meta charset="UTF-8">
   Viewport tag <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -17,8 +17,7 @@ reset.css includes...
   
   
 style.css includes...
-  Webkits for perfect background positioning found on CSS-Tricks
-  Links background file to url(media/bg.jpg)
+  Webkits for perfect background positioning found on CSS-Tricks. url(media/bg.jpg)
  
 
 
